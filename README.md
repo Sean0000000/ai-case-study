@@ -1,2 +1,1 @@
-# ai-case-study
-AI Case Study
+DALL-E by OpenAI
