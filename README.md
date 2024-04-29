@@ -1,6 +1,5 @@
 # DALL-E
-<img src="Art/Art.jpg" alt="Art"/>
-A painting of WALL-E in the style of Salvador Dali.
+<img src="Art/DALL-E.jpg" alt="Art" width="400"/> *A painting of WALL-E in the style of Salvador Dali.*
 
 ## Overview and Origin
 
@@ -16,9 +15,9 @@ DALL-E has had 3 major versions so far:**
 DALL-E can be accessed by going to:
 https://www.bing.com/images/create
 
-<img src="Art/Book.jpg" alt="Art"/>
-A book that literally never ends.
+<img src="Art/Book.jpg" alt="Art" width="300"/>
 
+*A book that literally never ends.</p>*
 
 A free Microsoft account is needed to create images. After typing in prompt, generating four images typically only takes fifteen seconds (3.75 seconds per image), but image generation can sometimes take longer during times of the day when bandwidth is spread thin due to heavy use. Every day, users are given fifteen “boosts” which is practically a guarantee that four images will be generated in fifteen seconds. After the fifteen boosts are used up, images can still be generated, but they may take longer than fifteen seconds to generate, depending on current global use of DALL-E.
 
@@ -32,8 +31,9 @@ OpenAI was founded on December 10, 2015 in San Francisco.
 
 OpenAI was founded by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba. (https://openai.com/blog/introducing-openai)
 
-<img src="Art/Vampire.jpg" alt="Art"/>
-A vampire that is skilled in martial arts, demonstrating his skills against his opponents in a spooky looking castle courtyard.
+<img src="Art/Vampire.jpg" alt="Art" width="300"/>
+
+*A vampire that is skilled in martial arts, demonstrating his skills against his opponents in a spooky looking castle courtyard.</p>*
 
 
 * How did the idea for the company (or project) come about?
@@ -45,7 +45,9 @@ DALL-E was inspired by OpenAI’s work on ChatGPT. With the ability to create st
 In 2015, the founders, along with Sam Altman, Reid Hoffman, Jessica Livingston, Peter Thiel, Elon Musk, Amazon Web Services, Infosys, and YC Research intended to raise over $1 billion to the venture and has received $130.5 million in donations. In 2019, OpenAI transitioned from a non-profit to a capped-profit company. In 2023, OpenAI received $10 billion in funding from Microsoft!
 
 [OpenAI] (https://openai.com/our-structure)
+
 [TechCrunch] (https://techcrunch.com/2019/03/11/openai-shifts-from-nonprofit-to-capped-profit-to-attract-capital/)
+
 [Reuters] (https://www.reuters.com/technology/openai-seeks-valuation-up-90-bln-sale-existing-shares-wsj-2023-09-26)
 
 ## Business Activities
@@ -54,8 +56,9 @@ In 2015, the founders, along with Sam Altman, Reid Hoffman, Jessica Livingston, 
 
 DALL-E can quickly create beautiful artwork astronomically faster than a human can. It can also create art in a variety of art styles that are vastly different from one another. Images can be used to quickly inspire artists, prototype ideas and designs, and spruce up corporate presentations and marketing materials.
 
-<img src="Art/Ice-Cream.jpg" alt="Art"/>
-Mountains of beautiful, colorful ice cream. Colorful stars are in the sky.
+<img src="Art/Ice-Cream.jpg" alt="Art" width="300"/></p>
+
+*Mountains of beautiful, colorful ice cream. Colorful stars are in the sky.*
 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
@@ -73,8 +76,9 @@ The intended areas of use include:
 
 It is hard to put an exact number on the market size, but since AI art image generation is so beneficial to many industries, the market size is massive.
 
-<img src="Art/Chess.jpg" alt="Art"/>
-A chess board made of pizza with chess pieces made of cookies.
+<img src="Art/Chess.jpg" alt="Art" width="300"/></p>
+
+*A chess board made of pizza with chess pieces made of cookies.*
 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -84,8 +88,9 @@ The main competitors are Midjourney and Stable Diffusion. Midjourney requires a 
 
 DALL-E is much simpler to use than Midjourney, Stable Diffusion or the other AI art models that are available on Hugging Face. DALL-E, as an OpenAI project, also has the financial backing of Microsoft, which could bode well for the future of new editions of DALL-E.
 
-<img src="Art/Monster.jpg" alt="Art"/>
-Huge monster is eating Earth-like planets while laughing about it and floating around in a galaxy. We can see the molten interiors of the planets. A few stars are nearby, and their sunspots are arranged in such a way as to look like they are watching with surprised and slightly fearful faces. A black hole nearby is spewing out material in two different polar jets.
+<img src="Art/Monster.jpg" alt="Art" width="300"/></p>
+
+*Huge monster is eating Earth-like planets while laughing about it and floating around in a galaxy. We can see the molten interiors of the planets. A few stars are nearby, and their sunspots are arranged in such a way as to look like they are watching with surprised and slightly fearful faces. A black hole nearby is spewing out material in two different polar jets.*
 
 
 * Which technologies are they currently using, and how are they implementing them?
@@ -94,8 +99,9 @@ DALL-E uses neural networks and CLIP (Contrastive Language-Image Pre-training) w
 
 ## Landscape
 
-<img src="Art/Castle.jpg" alt="Art"/>
-Extremely massive mansion on a floating island made of sharp rock spires. The mansion contains many floors, towers, and intricate stained-glass windows. The mansion is surrounded by a super fancy and intricate gate with golden statues adorning the posts. A waterfall of vibrantly bright red wine is pouring out of the bottom of the island. The sky is filled with clouds that are roughly shaped like animals.
+<img src="Art/Castle.jpg" alt="Art" width="300"/></p>
+
+*Extremely massive mansion on a floating island made of sharp rock spires. The mansion contains many floors, towers, and intricate stained-glass windows. The mansion is surrounded by a super fancy and intricate gate with golden statues adorning the posts. A waterfall of vibrantly bright red wine is pouring out of the bottom of the island. The sky is filled with clouds that are roughly shaped like animals.*
 
 
 * What field is the company in?
@@ -121,8 +127,9 @@ When it comes to customer-facing AI art generation tools, some examples include 
 
 [SimpleLearn] (https://www.simplilearn.com/dalle-vs-midjourney-vs-stable-difussion-article)
 
-<img src="Art/Snake.jpg" alt="Art"/>
-Photorealistic. The longest snake in the world is so long that it’s slithering in and out of almost every road in a city simultaneously.
+<img src="Art/Snake.jpg" alt="Art" width="300"/></p>
+
+*Photorealistic. The longest snake in the world is so long that it’s slithering in and out of almost every road in a city simultaneously.*
 
 
 ## Results
@@ -138,10 +145,17 @@ DALL-E can generate some very high-quality images that fit the prompts well. DAL
 
 * How is your company performing relative to competitors in the same field?
 
+<img src="Art/PieChart.jpg" alt="Art" width="700"/></p>
+
 In 2023, most AI images (12.6 billion) were made using Stable Diffusion, an open-source AI art generator. DALL-E, Midjourney, and Adobe Firefly each had about 1 billion images generated. While there were significantly less DALL-E images created when compared to Stable Diffusion images, DALL-E is much better at getting the general public to try out AI image generation with its simple, easy to use, user-friendly interface. For software developers and users of GitHub, Stable Diffusion is easy to use, but for the general public, not so much. That’s one reason why OpenAI probably has the upper hand here.
 
-<img src="Art/Moon.jpg" alt="Art"/>
-Hyperrealism. We are outside on a balcony that is part of a castle on a crisp and clear full moon night. Fireflies are enjoying themselves in various fields around us. A waterfall can be seen in the distance.
+It took about 150 years from the invention of photography for photographers to take 15 billion photos. In the first year and a half of AI created images, there have been over 15 billion generated!
+
+<img src="Art/15Billion.jpg" alt="Art" width="700"/></p>
+
+<img src="Art/Moon.jpg" alt="Art" width="300"/></p>
+
+*Hyperrealism. We are outside on a balcony that is part of a castle on a crisp and clear full moon night. Fireflies are enjoying themselves in various fields around us. A waterfall can be seen in the distance.*
 
 
 ## Recommendations
@@ -166,11 +180,12 @@ The functional AI art marketplace would need to utilize traditional printing and
   
 The human mind has no bounds when it comes to creativity, art, and technologies. However, not everyone is a skilled artist when it comes to traditional or digital art mediums. It requires the right brain and mindset. Many people have great ideas on how to make their life better but lack the talent and capital to turn those dreams into reality. With more quality-of-life features and more of an integration into real-world marketplaces, DALL-E could be revolutionary in the feats that it could accomplish.
 
-<img src="Art/HedgePool.jpg" alt="Art"/>
-A massive swimming pool that is laid out just like a hedge maze, angled perspective.
+<img src="Art/HedgePool.jpg" alt="Art" width="300"/></p>
+
+*A massive swimming pool that is laid out just like a hedge maze, angled perspective.*
 
 
-* ## Additional Sources
+* ## Additional Sources Used
 
 [Business Insider] (https://www.businessinsider.com/ai-taking-jobs-fears-artists-say-already-happening-2023-10)
 
