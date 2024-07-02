@@ -157,34 +157,6 @@ It took about 150 years from the invention of photography for photographers to t
 
 *Hyperrealism. We are outside on a balcony that is part of a castle on a crisp and clear full moon night. Fireflies are enjoying themselves in various fields around us. A waterfall can be seen in the distance.*
 
-
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer?
-
-I would suggest that they turn DALL-E and Microsoft’s Copilot designer into their own dedicated, full-screen, fully featured app for Windows, MacOS, iOS, Android, smart TVs, and gaming consoles. The interface could include a GUI that could be customized with AI art, professional looking menus and controls, and even optional sound effects and GUI animations. Many simple quality of life features should be implemented, such as automatic saving and downloading of images. (Currently you must save images to your Microsoft account and/or download them manually, and this is very tedious and time consuming if you enjoy creating a lot of AI art).
-
-I would also suggest that OpenAI and DALL-E follow the US constitution by honoring free speech and not restrict or censor any prompts. However, their definition of what is “ethical” is different than mine. The content restrictions are a bit over-the-top for some prompts. For example, DALL-E will block any prompt with the word “breast” in it, even if the prompt is just of a “chicken breast”. However, you can prompt engineer to get around that by entering “chicken cutlet” instead of “chicken breast”, and the generator will accept that. At the very least, DALL-E needs to say exactly why a prompt was blocked, not simply just block the prompt. Sometimes DALL-E lets you report a blocked prompt as being a prompt that shouldn’t have been blocked, but other times, it simply just blocks the prompt. Microsoft claims that they will ban Microsoft accounts that repeatedly enter prompts that get blocked, but they don’t give details on how many prompts can be blocked before the account is banned. I find that practice to be extremely draconian.
-
-There should be a live, real-time feature that generates additional images when prompts are being typed in. With the generation of one image only taking 3.75 seconds, a lot of fun and creative images would be generated while someone is entering and modifying their prompts. Even while typing at 60 words per minute, a lot of variations and varieties of an image could be created. If these were downloaded automatically, it would make the entire experience even more fun.
-
-* Why do you think that offering this product or service would benefit the company?
-
-OpenAI could turn the DALL-E app into a marketplace as well so that content creators could sell their art in the form of drawings, sketches, paintings, prints, and eventually, even 3D printed figurines, statues, furniture, and clothing. Even if a content creator is not selling their art to others, it would be very convenient (for the content creator) and lucrative (for OpenAI) to be able to take some AI art that you created, and then have it printed in a frame to hang on a wall, printed on a coffee mug, or printed on a tee-shirt.
-
-* What technologies would this additional product or service utilize?
-  
-The functional AI art marketplace would need to utilize traditional printing and 3D printing technologies. It would also become a content creator marketplace with the potential for huge success, such as YouTube, but be funded by taking a cut of the sales, and not funded by ads.
-
-* Why are these technologies appropriate for your solution?
-  
-The human mind has no bounds when it comes to creativity, art, and technologies. However, not everyone is a skilled artist when it comes to traditional or digital art mediums. It requires the right brain and mindset. Many people have great ideas on how to make their life better but lack the talent and capital to turn those dreams into reality. With more quality-of-life features and more of an integration into real-world marketplaces, DALL-E could be revolutionary in the feats that it could accomplish.
-
-<img src="Art/HedgePool.jpg" alt="Art" width="300"/></p>
-
-*A massive swimming pool that is laid out just like a hedge maze, angled perspective.*
-
-
 * ## Additional Sources Used
 
 [Business Insider] (https://www.businessinsider.com/ai-taking-jobs-fears-artists-say-already-happening-2023-10)
@@ -220,3 +192,7 @@ The human mind has no bounds when it comes to creativity, art, and technologies.
 [The Verge] (https://www.theverge.com/2023/9/20/23881241/openai-dalle-third-version-generative-ai)
 
 [Zero-Shot Text-to-Image Generation] (https://arxiv.org/pdf/2102.12092)
+
+<img src="Art/HedgePool.jpg" alt="Art" width="300"/></p>
+
+*A massive swimming pool that is laid out just like a hedge maze, angled perspective.*
